@@ -1,4 +1,4 @@
-# Solving the 1D Wave Equation with Physics-Informed Neural Networks (PINNs)
+# Solving the 1D Wave Equation using Physics-Informed Neural Networks (PINN)
 
 This project focuses on solving the 1D wave equation, a fundamental equation that describes the propagation of waves, such as sound, light, or water waves, and can be applied in various fields like acoustics, optics, and fluid dynamics. The goal is to model the wave's behavior over time and space using a Physics-Informed Neural Network (PINN), which integrates physical laws directly into the neural network's training process.
 
